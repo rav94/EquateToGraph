@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/linear_func.png</file>
+        <file>images/cosine.png</file>
+        <file>images/tan.png</file>
+        <file>images/sine.png</file>
+        <file>images/quadritic.png</file>
+        <file>images/help.png</file>
+        <file>images/cubic.png</file>
+        <file>images/about.png</file>
+        <file>images/exit.png</file>
+        <file>images/title_icon.png</file>
+        <file>images/main_img.png</file>
+    </qresource>
+</RCC>
